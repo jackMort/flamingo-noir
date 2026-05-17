@@ -85,9 +85,9 @@
 
 /* ---- Shared: typography, shape, spacing ---- */
 body {
-  --font-text-theme:      'Source Code Pro', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
-  --font-interface-theme: 'Source Code Pro', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
-  --font-monospace-theme: 'Source Code Pro', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  --font-text-theme:      'Source Code Pro', 'SF Mono', Menlo, Consolas, monospace;
+  --font-interface-theme: 'Source Code Pro', 'SF Mono', Menlo, Consolas, monospace;
+  --font-monospace-theme: 'Source Code Pro', 'SF Mono', Menlo, Consolas, monospace;
 
   --radius-s: 8px;
   --radius-m: 12px;
